@@ -17,3 +17,7 @@ git log --grep="<regex>"
 git diff
 git diff --staged    //difference between the working directory and repository
 
+
+
+
+git log --diff-filter=D    // gives the commits which are delete mode
