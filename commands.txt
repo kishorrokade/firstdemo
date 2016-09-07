@@ -28,3 +28,5 @@ git checkout <sha-key>     // first few characters of the key will work
 git branch   // lists out the local branches
 
 git branch -a  // lists out the remote branches
+
+ /// problem resolved
