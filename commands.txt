@@ -1,0 +1,19 @@
+git config --global user.name "Kishor Rokade"
+git config --global user.email "kishor_rokade@persistent.co.in"
+git config --list
+git init
+git add <filename>
+git add .
+git status
+git commit -m "comment"
+git commit -am "comment" - add and commit
+git log
+git log --oneline
+git log --online -2    ///show the recent logs
+git log --author="author name"
+git log --since="dd-mm-yyyy"
+git log --until="dd-mm-yyyy"
+git log --grep="<regex>"
+git diff
+git diff --staged    //difference between the working directory and repository
+
