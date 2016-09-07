@@ -21,3 +21,5 @@ git diff --staged    //difference between the working directory and repository
 
 
 git log --diff-filter=D    // gives the commits which are delete mode
+
+git checkout <sha-key>     // first few characters of the key will work
