@@ -1,4 +1,5 @@
 *.war
+# ignores all .class files
 *.class
 *.jar
 /bin/
