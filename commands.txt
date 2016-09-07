@@ -29,4 +29,3 @@ git branch   // lists out the local branches
 
 git branch -a  // lists out the remote branches
 
- /// problem resolved
