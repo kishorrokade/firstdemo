@@ -31,4 +31,4 @@ git branch -a  // lists out the remote branches
 
 
 
-change 4
+http://stackoverflow.com/questions/7203515/git-how-to-search-for-a-deleted-file-in-the-project-commit-history
